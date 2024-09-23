@@ -1,4 +1,8 @@
-# multipleJsExercises
+## 部署網址
+
+部署連結： https://redichen.github.io/multipleJsExercises/
+
+# 專案簡介
 8個小應用
 
 題目：
@@ -11,5 +15,12 @@
 7. 製作點擊按鈕後，出現彈出視窗的效果，點擊關閉後結束彈出視窗。
 8. 製作 tab UI，點擊 tab 切換到對應內容
 
+## Skill stacking
 
-[說明連結](https://docs.google.com/document/d/1rlXcAk5f6rgy9wxxYwCtsikFehe_Wuwwny6xIjfBryo/edit)
+<p>
+<img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+<img width="48" height="48" src="https://worldvectorlogo.com/logos/css-3.svg">
+<img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
+</p>
+
+HTML5, CSS3 (原生), Javascript (原生)
