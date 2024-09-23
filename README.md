@@ -21,6 +21,7 @@
 <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
 <img width="48" height="48" src="https://worldvectorlogo.com/logos/css-3.svg">
 <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
+<img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
 </p>
 
-HTML5, CSS3 (原生), Javascript (原生)
+HTML5, CSS3 (原生), Javascript (原生), Bootstrap
